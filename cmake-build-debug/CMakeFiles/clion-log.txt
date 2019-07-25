@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/harish.bohara/workspace/personal/rocks_test
+-- Found RocksDB  (include: /usr/local/include, library: /usr/local/lib/librocksdb.dylib)
+-- Found ZLIB: headers at /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/include, libraries at /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/lib
+/usr/lib/libbz2.dylib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/harish.bohara/workspace/personal/rocks_test
