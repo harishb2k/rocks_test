@@ -2,7 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cppkafka-prefix/src/cppkafka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cppkafka-prefix/src/cppkafka/third_party/Catch2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/googletest-prefix/src/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/googletest-prefix/src/googletest/third_party/Catch2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/json" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/nlohmann_json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rdkafka-prefix/src/rdkafka" vcs="Git" />
   </component>
 </project>

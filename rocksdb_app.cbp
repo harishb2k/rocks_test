@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="rocksdb_app"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\json\;CMake Files\json\cmake\;CMake Files\cppkafka-prefix\;CMake Files\cppkafka-prefix\tmp\;CMake Files\cmake\;CMake Files\cmake\Modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cppkafka">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 cppkafka"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rocksdb_app">
+				<Option output="/Users/harish.bohara/workspace/personal/rocks_test/rocksdb_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/harish.bohara/workspace/personal/rocks_test/external/cppkafka/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/harish.bohara/workspace/personal/rocks_test/json/single_include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 rocksdb_app"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rocksdb_app/fast">
+				<Option output="/Users/harish.bohara/workspace/personal/rocks_test/rocksdb_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/harish.bohara/workspace/personal/rocks_test/external/cppkafka/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/harish.bohara/workspace/personal/rocks_test/json/single_include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 rocksdb_app/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nightly">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test/json"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 Nightly"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Continuous">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test/json"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 Continuous"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experimental">
+				<Option working_dir="/Users/harish.bohara/workspace/personal/rocks_test/json"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 Experimental"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/harish.bohara/workspace/personal/rocks_test/json/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/json_file.cpp">
+			<Option target="rocksdb_app"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/json_file.h">
+			<Option target="rocksdb_app"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/my_db.cc">
+			<Option target="rocksdb_app"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/json/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\json\"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/json/cmake/config.cmake.in">
+			<Option virtualFolder="CMake Files\json\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/cppkafka-prefix/tmp/cppkafka-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cppkafka-prefix\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/cmake/Modules/FindBZIP2.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/cmake/Modules/FindRDKAFKA.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/cmake/Modules/FindSNAPPY.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/cmake/Modules/FindZLIB.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/harish.bohara/workspace/personal/rocks_test/cmake/Modules/Findrocksdb.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/3.15.0/bin/cmake;-DRDKAFKA_BUILD_STATIC=1;-DCMAKE_INSTALL_PREFIX=/Users/harish.bohara/workspace/personal/rocks_test/external/rdkafka;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

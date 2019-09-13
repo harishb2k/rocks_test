@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/3.15.0/bin/cmake;-DCMAKE_INSTALL_PREFIX=/Users/harish.bohara/workspace/personal/rocks_test/external/cppkafka;-DCPPKAFKA_DISABLE_TESTS=ON;-DCPPKAFKA_BUILD_SHARED=OFF;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

@@ -1,0 +1,12 @@
+prefix=/Users/harish.bohara/workspace/personal/rocks_test/external/rdkafka
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: librdkafka-static
+Description: The Apache Kafka C/C++ library (static)
+Version: 1.2.0
+Requires: zlib libsasl2 libzstd liblz4 
+Cflags: -I${includedir}
+Libs: -L${libdir} ${libdir}/librdkafka.a
+Libs.private: -lpthread -ldl -lm
